@@ -1,14 +1,18 @@
 Overview:
-Cryptographer is a simple encryption and decryption tool built to explore fundamental cryptographic concepts and strengthen logical problem-solving skills. It focuses on implementing basic cipher techniques and understanding text transformation.
+TypeMaster is a typing speed test application that measures Words Per Minute (WPM) and accuracy. It was developed to practice timing logic, input handling, and application structure.
 
 Features:
+1) Real-time typing test
+2) WPM calculation
+3) Accuracy tracking
+4) Clean and responsive layout
 
-1) Encrypts plain text into cipher text
-2) Decrypts cipher text back to original text
-3) Simple and user-friendly interface
+Tech Stack
 
-Tech Stack:
-
-1) Python
+1) Java
 2) HTML
 3) CSS
+
+
+
+
